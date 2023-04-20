@@ -44,8 +44,8 @@ prices = [
 # 0. In this case, `start` will be set to 2 and `end` will be set to 6.
 
 # Remember to uncomment the statements below and complete the part with '?' 
-start  = '?'
-end  = '?'
+start  = 'start'
+end  = 'end'
 #print(start, end)                   
 
 # Now, slice the `prices` list. 
